@@ -19,3 +19,4 @@ venv/
 tracker.log
 *.isorted
 .DS_Store
+boxes-env/
